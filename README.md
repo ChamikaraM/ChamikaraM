@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/23377630?v=4"  />
+  <img height="500" src="https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966"  />
 </div>
 
 ###
@@ -92,7 +92,7 @@
 <br>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChamikaraM&theme=tokyonight_duo)](https://git.io/streak-stats)
-[![Chamikara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamikaraM&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Chamikara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamikaraM&show=prs_merged,prs_merged_percentage&count_private=true&show_icons=true&theme=tokyonight)
   
 </div>
  
