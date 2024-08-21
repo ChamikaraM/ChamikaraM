@@ -13,7 +13,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey, I'm Chamikara 👋</h1>
+
+###
+
+<img src="https://komarev.com/ghpvc/?username=ChamikaraM&style=flat-square&color=blue" alt="" align="center"/>
 
 ###
 
@@ -25,11 +29,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools and Technologies</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -83,6 +87,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+<h2>Stats</h2>
+<br>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChamikaraM&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![Chamikara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamikaraM&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+ 
+<div id="topLangs"align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaraM&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ###
