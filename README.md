@@ -82,7 +82,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
 <h2>Stats</h2>
 <br>
@@ -91,7 +91,7 @@
 ![Chamikara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamikaraM&show=prs_merged,prs_merged_percentage&count_private=true&show_icons=true&theme=tokyonight)
   
 </div>
- 
+-->
 <div id="topLangs"align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaraM&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
