@@ -23,7 +23,8 @@ Hey, Chamikara here.
 
 #### Technologies and Tools I use:
 
-<img src="https://skillicons.dev/icons?i=dotnet,angular,react,tailwind,azure,js,ts,css,scss,html,nodejs,npm,mongo,express,firebase,docker,kubernetes,git,gitlab,bitbucket,py,postman,bootstrap,figma,unity,vscode,visualstudio,jira,confluence&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,angular,react,tailwind,azure,js,ts,css,scss,html,nodejs,npm,mongo,express,firebase,docker,kubernetes,git,gitlab,bitbucket,py,postman,bootstrap,figma,unity,vscode,visualstudio,jira,confluence&theme=dark" 
+style="width: 600px;"/>
 
 <!--
 <div align="center">
